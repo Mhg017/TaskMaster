@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TaskMaster</string>
+
+    <string name="welcome_message">Welcome to TaskMaster!</string>
+    <string name="login_button">Login</string>
+
+    <!-- Priority options for task creation -->
+    <string-array name="priority_options">
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID</string>
+
+</resources>
+
